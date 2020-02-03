@@ -1,4 +1,4 @@
-package com.zhc
+package com.zhc.course01
 
 object SimpleObjectApp {
 

@@ -1,4 +1,4 @@
-package com.zhc
+package com.zhc.course01
 
 object ConstructorApp {
   def main(args: Array[String]): Unit = {
@@ -6,6 +6,7 @@ object ConstructorApp {
     println(p.eat())
 
     val student: Student = new Student("zhangsan", "apple", "xuexi")
+    println(student.toString)
   }
 }
 
